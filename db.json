@@ -1,0 +1,58 @@
+{
+  "cafeteria": [
+    {
+      "nombreProducto": "galletas de dulce de leche",
+      "precioProducto": "60",
+      "categoria": "dulce",
+      "id": 2
+    },
+    {
+      "nombreProducto": "Café light",
+      "precioProducto": "98",
+      "categoria": "bebida-caliente",
+      "id": 6
+    },
+    {
+      "nombreProducto": "Jugo de naranja",
+      "precioProducto": "75",
+      "categoria": "bebida-fria",
+      "id": 8
+    },
+    {
+      "nombreProducto": "Pepas",
+      "precioProducto": "10",
+      "categoria": "dulce",
+      "id": 9
+    },
+    {
+      "nombreProducto": "Ensalada de frutas",
+      "precioProducto": "80",
+      "categoria": "bebida-fria",
+      "id": 10
+    },
+    {
+      "nombreProducto": "Te de limon",
+      "precioProducto": "50",
+      "categoria": "bebida-caliente",
+      "id": 11
+    },
+    {
+      "nombreProducto": "Té de Frutilla",
+      "precioProducto": "60",
+      "categoria": "bebida-caliente",
+      "id": 12
+    },
+    {
+      "nombreProducto": "Chocotorta",
+      "precioProducto": "150",
+      "categoria": "dulce",
+      "id": 14
+    },
+    {
+      "nombreProducto": "Torta de hojaldre",
+      "precioProducto": "250",
+      "categoria": "dulce",
+      "id": 16
+    }
+  ]
+}

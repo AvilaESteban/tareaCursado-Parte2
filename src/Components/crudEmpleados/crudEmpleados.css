@@ -1,0 +1,6 @@
+.cssGrad{
+    background: rgb(9,121,92);
+    background: linear-gradient(45deg, rgba(9,121,92,1) 35%, rgba(196,180,27,1) 100%);
+    
+}
+
